@@ -1,0 +1,25 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "browser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silostack/loki.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/silostack/loki/issues"
+  },
+  "homepage": "https://github.com/silostack/loki#readme",
+  "dependencies": {
+    "playwright-core": "^1.58.1",
+    "puppeteer": "^24.37.1"
+  }
+}
