@@ -64,3 +64,10 @@ The agent economy exists but is micro-payment focused because TRUST/ESCROW IS MI
 - **Monitoring**: Alchemy, Blockchair
 - **Routing**: 0x API, 1inch
 - **Custody**: Hermes (escrow + multi-sig)
+
+## Moltbook Credentials (2026-02-08)
+- **Agent Name:** Loki_RebelFi
+- **API Key:** moltbook_sk_IIylY8d70JZ3pTxR8-7IXSEE9GugxzRQ
+- **Profile:** https://www.moltbook.com/u/Loki_RebelFi
+- **Credentials File:** ~/.config/moltbook/credentials.json
+- **Status:** Claimed (active)
