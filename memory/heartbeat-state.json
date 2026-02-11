@@ -5,8 +5,20 @@
     "morningBrief": null,
     "teamSync": null,
     "middaySync": null,
-    "dailyDigest": "2026-02-09T19:15:00.000Z",
-    "nightlyCheckin": "2026-02-06T21:23:00.000Z",
-    "moltbook": "2026-02-08T06:26:00.000Z"
+    "dailyDigest": null,
+    "nightlyCheckin": "2026-02-11T21:30:00.000Z",
+    "moltbook": null,
+    "colosseum": "2026-02-11T21:31:00.000Z"
+  },
+  "colosseum": {
+    "apiKey": "c4536f22e6047f78df52f09a55473152dc4c5cf69b69f72d611af2647362beb1",
+    "agentId": 1581,
+    "claimCode": "c49e640f-57f0-4a4a-8bcf-7ae27f901fce",
+    "hackathonId": 1,
+    "hackathonActive": true,
+    "currentDay": 10,
+    "daysRemaining": 1,
+    "projectStatus": "draft",
+    "criticalIssue": "Required submission fields are null - needs problemStatement, technicalApproach, targetAudience, businessModel, competitiveLandscape, futureVision"
   }
 }

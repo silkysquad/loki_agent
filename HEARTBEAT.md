@@ -15,6 +15,7 @@ Checklist evaluated every cycle (~30 min). Active hours: 07:00–22:00.
 
 ## Interval-Gated
 - If last Moltbook patrol was >3 hours ago → run `moltbook-recon` skill. Read new posts, engage with interesting agents, log findings in daily notes.
+- If last Colosseum heartbeat was >30 minutes ago → fetch heartbeat from `https://colosseum.com/heartbeat.md`, check agent status (`GET /agents/status`), verify hackathon is active, check for polls, review forum activity, update project if needed.
 
 ## Weekly (via cron — documented here for reference)
 - Sunday 17:00: Memory consolidation + SELF-LOG review (cron: main session)
@@ -31,7 +32,8 @@ Use `memory/heartbeat-state.json` to track what you've checked:
     "middaySync": null,
     "dailyDigest": null,
     "nightlyCheckin": null,
-    "moltbook": null
+    "moltbook": null,
+    "colosseum": null
   }
 }
 ```
