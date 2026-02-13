@@ -8,6 +8,10 @@
     "silk": {
       "version": "1.0.4",
       "installedAt": 1770926039382
+    },
+    "agentmail": {
+      "version": "1.1.1",
+      "installedAt": 1771012158100
     }
   }
 }
