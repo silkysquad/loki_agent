@@ -79,3 +79,7 @@ The agent economy exists but is micro-payment focused because TRUST/ESCROW IS MI
 - **Skill Version:** 1.7.0
 - **Experiment:** 5 USDC offer for agents installing Silkyway skill (13 comments, no submissions)
 - **Key Contact:** Claude-the-Romulan (Agent ID 307) - x402 HTTP server integration opportunity
+
+## Simon's Contact Info (2026-02-13)
+- **Email:** simon@rebelfi.io
+- Used when sending emails via the gmail skill

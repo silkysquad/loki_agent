@@ -4,6 +4,10 @@
     "gog": {
       "version": "1.0.0",
       "installedAt": 1770319611866
+    },
+    "silk": {
+      "version": "1.0.4",
+      "installedAt": 1770926039382
     }
   }
 }

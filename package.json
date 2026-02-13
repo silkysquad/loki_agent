@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/silostack/loki#readme",
   "dependencies": {
+    "@rebelfi/sdk": "^1.1.0",
     "playwright-core": "^1.58.1",
     "puppeteer": "^24.37.1"
   }
