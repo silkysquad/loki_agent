@@ -6,12 +6,16 @@
       "installedAt": 1770319611866
     },
     "silk": {
-      "version": "1.0.4",
-      "installedAt": 1770926039382
+      "version": "1.0.7",
+      "installedAt": 1771085372637
     },
     "agentmail": {
       "version": "1.1.1",
       "installedAt": 1771012158100
+    },
+    "silkyway": {
+      "version": "1.0.8",
+      "installedAt": 1771086678873
     }
   }
 }
